@@ -1,0 +1,142 @@
+top - 20:38:48 up 4 min,  0 users,  load average: 0.52, 0.58, 0.59
+Tasks:   5 total,   1 running,   4 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  5.0 us,  5.8 sy,  0.0 ni, 89.1 id,  0.0 wa,  0.1 hi,  0.0 si,  0.0 st
+KiB Mem :  8305600 total,  2890896 free,  5185352 used,   229352 buff/cache
+KiB Swap: 25165824 total, 24831024 free,   334800 used.  2986516 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+    1 root      20   0    8936    316    272 S   0.0  0.0   0:00.20 init
+    7 root      20   0    8936    224    176 S   0.0  0.0   0:00.00 init
+    8 nabila    20   0   16780   3440   3328 S   0.0  0.0   0:00.32 bash
+   63 nabila    20   0  112944 102904    400 S   0.0  1.2   0:00.13 ex2
+   64 nabila    20   0   17492   1892   1428 R   0.0  0.0   0:00.01 top
+
+top - 20:38:49 up 4 min,  0 users,  load average: 0.52, 0.58, 0.59
+Tasks:   5 total,   1 running,   4 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.2 us, 12.2 sy,  0.0 ni, 85.5 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :  8305600 total,  2890896 free,  5185352 used,   229352 buff/cache
+KiB Swap: 25165824 total, 24831024 free,   334800 used.  2986516 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+   63 nabila    20   0  215348 205308    400 S  19.0  2.5   0:00.32 ex2
+    1 root      20   0    8936    316    272 S   0.0  0.0   0:00.20 init
+    7 root      20   0    8936    224    176 S   0.0  0.0   0:00.00 init
+    8 nabila    20   0   16780   3440   3328 S   0.0  0.0   0:00.32 bash
+   64 nabila    20   0   17492   1972   1504 R   0.0  0.0   0:00.01 top
+
+top - 20:38:50 up 4 min,  0 users,  load average: 0.52, 0.58, 0.59
+Tasks:   5 total,   1 running,   4 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.5 us,  6.5 sy,  0.0 ni, 93.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :  8305600 total,  2890896 free,  5185352 used,   229352 buff/cache
+KiB Swap: 25165824 total, 24831024 free,   334800 used.  2986516 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+   63 nabila    20   0  317752 307712    400 S  20.0  3.7   0:00.52 ex2
+    1 root      20   0    8936    316    272 S   0.0  0.0   0:00.20 init
+    7 root      20   0    8936    224    176 S   0.0  0.0   0:00.00 init
+    8 nabila    20   0   16780   3440   3328 S   0.0  0.0   0:00.32 bash
+   64 nabila    20   0   17492   1972   1504 R   0.0  0.0   0:00.01 top
+
+top - 20:38:51 up 4 min,  0 users,  load average: 0.52, 0.58, 0.59
+Tasks:   5 total,   1 running,   4 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  1.0 us,  9.7 sy,  0.0 ni, 89.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :  8305600 total,  2636992 free,  5439256 used,   229352 buff/cache
+KiB Swap: 25165824 total, 24826888 free,   338936 used.  2732612 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+   63 nabila    20   0  420156 410116    400 S  23.0  4.9   0:00.75 ex2
+    1 root      20   0    8936    316    272 S   0.0  0.0   0:00.20 init
+    7 root      20   0    8936    224    176 S   0.0  0.0   0:00.00 init
+    8 nabila    20   0   16780   3440   3328 S   0.0  0.0   0:00.32 bash
+   64 nabila    20   0   17492   1972   1504 R   0.0  0.0   0:00.01 top
+
+top - 20:38:52 up 4 min,  0 users,  load average: 0.52, 0.58, 0.59
+Tasks:   5 total,   1 running,   4 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.0 us,  8.2 sy,  0.0 ni, 89.8 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :  8305600 total,  2636992 free,  5439256 used,   229352 buff/cache
+KiB Swap: 25165824 total, 24826888 free,   338936 used.  2732612 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+   63 nabila    20   0  522560 512520    400 S  20.0  6.2   0:00.95 ex2
+    1 root      20   0    8936    316    272 S   0.0  0.0   0:00.20 init
+    7 root      20   0    8936    224    176 S   0.0  0.0   0:00.00 init
+    8 nabila    20   0   16780   3440   3328 S   0.0  0.0   0:00.32 bash
+   64 nabila    20   0   17492   1972   1504 R   0.0  0.0   0:00.01 top
+
+top - 20:38:53 up 4 min,  0 users,  load average: 0.52, 0.58, 0.59
+Tasks:   5 total,   2 running,   3 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.7 us,  2.2 sy,  0.0 ni, 97.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :  8305600 total,  2636992 free,  5439256 used,   229352 buff/cache
+KiB Swap: 25165824 total, 24826888 free,   338936 used.  2732612 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+   63 nabila    20   0  624964 526712    400 R   6.0  6.3   0:01.01 ex2
+    1 root      20   0    8936    316    272 S   0.0  0.0   0:00.20 init
+    7 root      20   0    8936    224    176 S   0.0  0.0   0:00.00 init
+    8 nabila    20   0   16780   3440   3328 S   0.0  0.0   0:00.32 bash
+   64 nabila    20   0   17492   1972   1504 R   0.0  0.0   0:00.01 top
+
+top - 20:38:54 up 4 min,  0 users,  load average: 0.52, 0.58, 0.59
+Tasks:   5 total,   1 running,   4 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.5 us,  5.0 sy,  0.0 ni, 94.5 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :  8305600 total,  2437124 free,  5639124 used,   229352 buff/cache
+KiB Swap: 25165824 total, 24826892 free,   338932 used.  2532744 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+   63 nabila    20   0  624964 614924    400 S  12.0  7.4   0:01.13 ex2
+    1 root      20   0    8936    316    272 S   0.0  0.0   0:00.20 init
+    7 root      20   0    8936    224    176 S   0.0  0.0   0:00.00 init
+    8 nabila    20   0   16780   3440   3328 S   0.0  0.0   0:00.32 bash
+   64 nabila    20   0   17492   1972   1504 R   0.0  0.0   0:00.01 top
+
+top - 20:38:55 up 4 min,  0 users,  load average: 0.52, 0.58, 0.59
+Tasks:   5 total,   1 running,   4 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  1.8 us,  5.3 sy,  0.0 ni, 92.7 id,  0.0 wa,  0.3 hi,  0.0 si,  0.0 st
+KiB Mem :  8305600 total,  2437124 free,  5639124 used,   229352 buff/cache
+KiB Swap: 25165824 total, 24826892 free,   338932 used.  2532744 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+   63 nabila    20   0  727368 717328    400 S  19.0  8.6   0:01.32 ex2
+    1 root      20   0    8936    316    272 S   0.0  0.0   0:00.20 init
+    7 root      20   0    8936    224    176 S   0.0  0.0   0:00.00 init
+    8 nabila    20   0   16780   3440   3328 S   0.0  0.0   0:00.32 bash
+   64 nabila    20   0   17492   1972   1504 R   0.0  0.0   0:00.01 top
+
+top - 20:38:56 up 5 min,  0 users,  load average: 0.52, 0.58, 0.59
+Tasks:   5 total,   1 running,   4 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.7 us,  7.5 sy,  0.0 ni, 91.8 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :  8305600 total,  2437124 free,  5639124 used,   229352 buff/cache
+KiB Swap: 25165824 total, 24826892 free,   338932 used.  2532744 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+   63 nabila    20   0  829772 819732    400 S  18.8  9.9   0:01.51 ex2
+    1 root      20   0    8936    316    272 S   0.0  0.0   0:00.20 init
+    7 root      20   0    8936    224    176 S   0.0  0.0   0:00.00 init
+    8 nabila    20   0   16780   3440   3328 S   0.0  0.0   0:00.32 bash
+   64 nabila    20   0   17492   1972   1504 R   0.0  0.0   0:00.01 top
+
+top - 20:38:57 up 5 min,  0 users,  load average: 0.52, 0.58, 0.59
+Tasks:   5 total,   1 running,   4 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  1.7 us,  5.0 sy,  0.0 ni, 93.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :  8305600 total,  2130012 free,  5946236 used,   229352 buff/cache
+KiB Swap: 25165824 total, 24826892 free,   338932 used.  2225632 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+   63 nabila    20   0  932176 922136    400 S  17.0 11.1   0:01.68 ex2
+    1 root      20   0    8936    316    272 S   0.0  0.0   0:00.20 init
+    7 root      20   0    8936    224    176 S   0.0  0.0   0:00.00 init
+    8 nabila    20   0   16780   3440   3328 S   0.0  0.0   0:00.32 bash
+   64 nabila    20   0   17492   1972   1504 R   0.0  0.0   0:00.01 top
+
+top - 20:38:58 up 5 min,  0 users,  load average: 0.52, 0.58, 0.59
+Tasks:   5 total,   1 running,   4 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.2 us,  6.9 sy,  0.0 ni, 90.8 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :  8305600 total,  2130012 free,  5946236 used,   229352 buff/cache
+KiB Swap: 25165824 total, 24826892 free,   338932 used.  2225632 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+   63 nabila    20   0 1034580 0.977g    400 S  23.0 12.3   0:01.91 ex2
+   64 nabila    20   0   17492   1972   1504 R   2.0  0.0   0:00.03 top
+    1 root      20   0    8936    316    272 S   0.0  0.0   0:00.20 init
+    7 root      20   0    8936    224    176 S   0.0  0.0   0:00.00 init
+    8 nabila    20   0   16780   3440   3328 S   0.0  0.0   0:00.32 bash

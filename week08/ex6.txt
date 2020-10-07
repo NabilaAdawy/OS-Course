@@ -1,0 +1,3 @@
+8 entries
+since we have 8kb pages then the offset will take 13 bits. and since we have only 16 bits that means we will have only 3 bits left for the entries.
+2^3 = 8 entries.
