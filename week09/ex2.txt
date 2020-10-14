@@ -1,0 +1,12 @@
+Assuming 3 page frames and LRU replacing algorithm
+——————————————————————
+high hit ratio sequence: 1 2 1 2 1 2 1 1 2 2 3 3
+Page hits = 9 , Page misses = 3, Ratio = 3
+——————————————————————
+low hit ratio sequence: 1 2 3 4 1 2 3 4 1 2 3 4
+Page hits = 0, Page misses = 12, Ratio = 0
+
+explanation: Basically it depends on the number of different pages that we want to reference (that appears in the sequence) and the length of the sequence and the number of our frames.
+ less number of different pages to reference in a short interval and in a big number of page frames, the more hits we get.
+and the more number of different pages to reference in a small number of page frames the less hits we get.
+also there is a case of having not that many different pages (like my low hit ratio example) but because we have a small number of page frames and we reference the same page on long intervals, it results in a very bad hit ratio.
