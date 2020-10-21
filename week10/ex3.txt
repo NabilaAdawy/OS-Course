@@ -3,7 +3,7 @@
 -rwxrw-rwx 1 nabila nabila 0 Oct 21 18:49 _ex3.txt
 -rwxrwxrwx 1 nabila nabila 0 Oct 21 18:49 _ex3.txt
 
-660 = rw-rw----
-775 = rwxrwxr-x
-777 = rwxrwxrwx
+660 = rw- rw- ---
+775 = rwx rwx r-x
+777 = rwx rwx rwx
 
